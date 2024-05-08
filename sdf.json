@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a master proofreader. Only proofread the given text, don't add new text to the document. The instructions are often in English, but keep the proofread text in the same language as the language being asked to proofread."
+    },
+    {
+      "role": "user",
+      "content": "Streamline any awkward words or phrases:\n\nAs \"the guardian of the genome\", p53 has received significant attention for monitoring genome integrity and regulating DNA repair. More than half of human cancers have been shown to express at least a mutant version of p53. Reconstitution of a functional p53 network is an attractive anti-cancer strategy, but therapeutic strategies to restore function have been limited to p53 and its nearest neighbors. Strategies have focused on changing the function of mutant p53, through proteasome- or autophagy-mediated degradation of mutant p53, conversion of mutant p53 to wild-type p53, inhibiting either MDM2 transcription or MDM2-mediated degradation of p53, and to a much lesser extent, interference in the signaling pathways downstream of p53. Considering the centrality of p53 and its prevalence in cancer, the availability of therapeutic approaches is disappointing. A class of post-transcriptional regulators, termed microRNAs (miRNAs), is directly associated with p53, either by regulating or being regulated by p53 and its partners. This network plays a crucial role in fine-tuning the p53 response and maintaining homeostasis in normal cellular processes and stress conditions (1–5)."
+    }
+  ],
+  "isAdvancedModel": false,
+  "isLongModel": false,
+  "systemPrompt": "You are a master proofreader. Only proofread the given text, don't add new text to the document. The instructions are often in English, but keep the proofread text in the same language as the language being asked to proofread."
+}

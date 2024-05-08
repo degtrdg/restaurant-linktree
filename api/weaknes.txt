@@ -1,0 +1,69 @@
+miR-34a targets have been published by quite some papers. This proposal may not come up with new targets that will profoundly change our understanding of the downstream genes of this miRNA or its biology.
+
+The biological effect of any given target site may be cell context dependent. How to generalize the knowledge, especially for understanding the immune side effect in the clinical trial, is a question.
+
+Critical preliminary data are missing. For example, does knocking out miR-34a in those proposed cell lines cause increases in the target gene expression, and biological phenotypes?
+
+Many targets of miR-34a have been published already.
+
+Why using miRNA inhibitor rather than making inducible KO? Is the miR-34a inhibitor specific enough not to touch other related miRNAs in the miR-34 family?
+
+The editing either by NHEJ by wildtype Cas9 or by base editor will generate cell clones each likely with two alleles with different genetic changes (assuming diploid genome, but likely the cell lines have some level of aneuploidy, which will make this more complicated). Also different clones will likely have different genetic changes. How do they interpret data with these variabilities?
+
+For the screen in Aim2, how do they interpret data when p53wt and p53 null cell lines have different behaviors? Or different behaviors between HCT116 and the NSCLC pair?
+
+Aim3: again, what to do if the phenotypes are not consistent across cell lines?
+
+Aim3 also does not provide data supporting feasibility of their graph-based algorithm.
+
+Gender as a biological variable not mentioned.
+
+miR-34a as a downstream effector of TP53 has been the subject of over one hundred publications, raising doubts about what more this proposal will add if the aims are successful (major weakness).
+
+The list of miR-34a target genes is derived from a review paper and no evidence is provided that these circuits are active in the cell lines selected for the current study. As acknowledged within the proposal, polymorphisms or other genetic events may disrupt network edges in some cell lines but not others, rendering interpretations that are not generalizable (major weakness).
+
+Transcription factors other than TP53 have been shown to induce miR-34a (reviewed in PMID: 29022903), and the activation status of these factors across cell lines was not controlled for as a confounding biological variable (moderate weakness).
+
+No feasibility studies are provided for the single-cell miRNA-mRNA co-sequencing approach that is central to Aim #3, reducing Rigor of the Prior Research (major weakness).
+
+Feasibility of miR-34a replacement therapy has been largely discounted (PMID: 32238921), and none of the findings stemming from this proposal will alter therapeutic relevance of miR-34a in a tangible way (moderate weakness).
+
+The stated goal of Aim #3 is to produce radar charts, which are not much more than circular descriptions of a handful of variables. This stated success outcome has low Significance (major weakness).
+
+The scope of the proposal overall is demonstrably hypothesis generating with high risk and low reward (major weakness).
+
+There is very little preliminary data overall, but the results of Figure 2b are not convincing.
+
+83/100 vs. 65/100 pulsatile traces is just at the border of statistical significance (P = 0.036) and would not be considered a “markedly decreased” assuming that all cells had been transfected with the miR-192 inhibitor (moderate weakness).
+
+Too much of the preliminary data is irrelevant: Figure 2 (deals with miR-192, not miR-34a), Figure 6 (caption talks about similar experiments to be performed in miR-215), Figure 10 (arbitrary TGFbeta stimulation of A549 cells, a line not proposed to be used for this application) (major weakness).
+
+Preliminary data that are irrelevant are not completely interpreted. Specifically, in the cell cycle analysis of Figure 3a, the caption mentions a miR-34a-mediated G1 arrest and increase in apoptosis that is TP53 dependent. However, if miR-34a is entirely downstream of TP53, the miR-34a transfection should have no dependence of TP53. The data suggest that TP53- mediated induction of miR-34a plays only a small role in the phenotypes observed (major weakness).
+
+The MPI team lacks expertise in TP53 biology or multiscale cancer biology beyond cultured cell
+lines (major weakness).
+
+The MPI has not corresponded a publication since 2019, which is partly explained in the personal statement but nonetheless concerning as neither are there preprints available (moderate weakness).
+
+It is not entirely clear why the MPI has more effort on the proposal than the contact PI. An asymmetry is acceptable but it should be justified in the MPI plan (minor weakness)
+
+While the study has a focus on p53, the research team does not appear to have any research experience in p53.
+
+The miR-34-p53 pathway has been extensively investigated. The proposed research will target
+well-characterized genes in the pathway.
+
+The methods are standard.
+
+The working hypothesis is not clear.
+
+The experiments are poorly designed with limited scope.
+
+Presented preliminary data are often unrelated to the proposed research. Most of them are from published data and used to demonstrate feasibility of proposed methods.
+
+The research strategies are very confusing.
+
+Aim 1 will merely generate knockout cell lines. It is not clear why the 8 genes are selected.  HBEC30-KT and HCC4017 are not isogenic lines.
+
+Aim 2, it is not clear how exactly the CRISPR library will be constructed.
+
+Aim 3, technical details are not found in the biological function assays. It was said that single cell sequencing will be carried out. However, there is no description about how this will be performed.
